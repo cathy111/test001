@@ -1,0 +1,422 @@
+{
+	"enable_huawei_super_slow": 0,
+	"need_pre_load": 1,
+	"react_mic_status": 1,
+	"show_prevent_download": false,
+	"can_be_live_podcast": false,
+	"free_flow_card": {
+		"entry_url": "https://www.douyin.com/douyin/douyin_card/collection/?media_source=1&oid=3",
+		"entry_url_text": "免流量看抖音",
+		"toast_slogan": "15G流量包免费领",
+		"toast_title": "当前为非WiFi环境，已为您暂停播放",
+		"toast_type": 0,
+		"toast_url": "http://appdownload.taipan.bja.bcs.ottcn.com/douyin_expand_pack/",
+		"toast_url_text": "办理免流量服务"
+	},
+	"fresh_tab": 0,
+	"musician_show_type": 1,
+	"open_im": false,
+	"pic_qrcode_recognition_switch": 1,
+	"refresh_available": false,
+	"shield_music_field": [],
+	"forbid_local_watermark": false,
+	"use_live_wallpaper": 1,
+	"http_timeout": 60000,
+	"popWindowEveryTime_postcomment": false,
+	"self_see_watermark_switch": true,
+	"status_code": 0,
+	"enable_read_fancy_qrcode": 1,
+	"anti_addiction_night_time": 4500,
+	"enable_hashtag_profile": 1,
+	"im_url_template": "https://link.wtturl.cn?scene=im",
+	"is_force_https": 1,
+	"long_video_threshold": 59000,
+	"notice_refresh_time": 300,
+	"video_commit": 70,
+	"ad_intro_landingpage_url": "https://www.chengzijianzhan.com/tetris/page/1613995453434910/",
+	"ad_feedback_phone": "400-603-0918",
+	"enable_account_log_upload": true,
+	"im_switch_spi": 1,
+	"ios_loki_disabled": false,
+	"is_target_binding_user": false,
+	"live_max_bitrate": 720000,
+	"orginal_musician_url": "https://aweme.snssdk.com/magic/runtime/?id=1469",
+	"original_musician_share_style": true,
+	"anti_addiction_day_time": 7200,
+	"use_chrome_net": false,
+	"im_switch": 1,
+	"nearby_tab": 1,
+	"network_timeout": 5000,
+	"search_trend_banner_url": {
+		"url_list": ["https://p1-dy.bytecdn.cn/obj/da670001b22c5c5b029e", "https://p3-dy.bytecdn.cn/obj/da670001b22c5c5b029e", "https://pb3.pstatp.com/obj/da670001b22c5c5b029e"],
+		"uri": "da670001b22c5c5b029e"
+	},
+	"sticker_artist_entry": 1,
+	"ttplayer_buffer_duration_switch": 1000,
+	"video_bitrate": 4000,
+	"im_contacts_multi_select_limit": 10,
+	"video_size": "540x960",
+	"anti_addiction_separation": 22,
+	"app_store_score": {
+		"threshold": 3,
+		"section": 5,
+		"switch": 1
+	},
+	"live_default_bitrate": 512000,
+	"live_use_zhima": 1,
+	"refresh_zhima": 0,
+	"show_creator_license_230": {
+		"show": 0
+	},
+	"star_billboard_rule_url": "https://aweme.snssdk.com/falcon/douyin_falcon/rule/star/",
+	"a1": 1,
+	"test_device_type": "iPhone8,1",
+	"avatar_decoration_enabled": false,
+	"beauty_model": 2,
+	"can_duet": true,
+	"close_fantasy_v2": 1,
+	"comment_setting_enable": 0,
+	"fe_config_collection": {
+		"ringtone": {
+			"schema": "aweme://webview/?url=https%3A%2F%2Faweme.snssdk.com%2Ffalcon%2Fringtone%3Fhide_nav_bar%3D1&hide_nav_bar=1&rn_schema=aweme%3A%2F%2Freactnative%2F%3Fchannel_name%3Dfe_app_rn_patch%26bundle_name%3Dfe_app_rn%26module_name%3Dpage_ringtone%26bg_theme%3D%2523161823%26hide_nav_bar%3D1"
+		}
+	},
+	"has_weixin_suppress": false,
+	"ad_landing_page_config": {
+		"ad_landing_page_auto_jump_allow_list": ["snssdk141", "snssdk1128", "snssdk32", "snssdk51", "snssdk1165", "snssdk1112", "snssdk36", "bytedance"],
+		"ad_landing_page_auto_jump_control_enabled": true,
+		"ad_landing_page_click_jump_allow_list": ["meituanwaimai", "yitiao"],
+		"ad_landing_page_click_jump_control_enabled": true,
+		"ad_landing_page_click_jump_intercept_list": null,
+		"ad_landing_page_click_jump_intercept_tips": "不能完成跳转",
+		"ad_landing_page_click_jump_interval": 3000
+	},
+	"open_im_link": 1,
+	"settings_request_interval": 30,
+	"need_new_license": 1,
+	"commerce_use_zhima": 1,
+	"live_res_h": 960,
+	"share_platforms": [{
+		"notice_msg_pre": "",
+		"notify_msg": "",
+		"platform_id": "chat_merge",
+		"platform_name": "站内好友",
+		"share_mode": 1,
+		"toast_msg": "",
+		"command_msg": ""
+	}, {
+		"share_mode": 3,
+		"toast_msg": "已保存到相册，请到朋友圈上传",
+		"command_msg": "",
+		"notice_msg_pre": "腾讯以“互联网短视频整治”为理由，屏蔽了您要分享的抖音链接。\n\n需要您上传视频才能分享。",
+		"notify_msg": "腾讯以“互联网短视频整治”为理由，屏蔽了您要分享的抖音链接。\n\n需要您上传视频才能分享。",
+		"platform_id": "weixin_moments",
+		"platform_name": "朋友圈"
+	}, {
+		"share_mode": 3,
+		"toast_msg": "已保存到相册，请到微信上传",
+		"command_msg": "",
+		"notice_msg_pre": "腾讯以“互联网短视频整治”为理由，屏蔽了您要分享的抖音链接。\n\n需要您上传视频才能分享。",
+		"notify_msg": "腾讯以“互联网短视频整治”为理由，屏蔽了您要分享的抖音链接。\n\n需要您上传视频才能分享。",
+		"platform_id": "weixin",
+		"platform_name": "微信"
+	}, {
+		"share_mode": 3,
+		"toast_msg": "已保存到相册，请到QQ空间上传",
+		"command_msg": "",
+		"notice_msg_pre": "腾讯以“互联网短视频整治”为理由，屏蔽了您要分享的抖音链接。\n\n需要您上传视频才能分享。",
+		"notify_msg": "腾讯以“互联网短视频整治”为理由，屏蔽了您要分享的抖音链接。\n\n需要您上传视频才能分享。",
+		"platform_id": "qzone",
+		"platform_name": "QQ空间"
+	}, {
+		"share_mode": 3,
+		"toast_msg": "已保存到相册，请到QQ上传",
+		"command_msg": "",
+		"notice_msg_pre": "腾讯以“互联网短视频整治”为理由，屏蔽了您要分享的抖音链接。\n\n需要您上传视频才能分享。",
+		"notify_msg": "腾讯以“互联网短视频整治”为理由，屏蔽了您要分享的抖音链接。\n\n需要您上传视频才能分享。",
+		"platform_id": "qq",
+		"platform_name": "QQ"
+	}, {
+		"share_mode": 1,
+		"toast_msg": "",
+		"command_msg": "",
+		"notice_msg_pre": "",
+		"notify_msg": "",
+		"platform_id": "toutiao",
+		"platform_name": "头条"
+	}, {
+		"share_mode": 3,
+		"toast_msg": "",
+		"command_msg": "",
+		"notice_msg_pre": "成功保存到系统相册，请到微博上传视频",
+		"notify_msg": "成功保存到系统相册，请到微博上传视频",
+		"platform_id": "weibo",
+		"platform_name": "微博"
+	}, {
+		"share_mode": 1,
+		"toast_msg": "",
+		"command_msg": "",
+		"notice_msg_pre": "成功保存到系统相册，请到Instagram上传视频",
+		"notify_msg": "成功保存到系统相册，请到Instagram上传视频",
+		"platform_id": "instagram",
+		"platform_name": "Instagram"
+	}, {
+		"notify_msg": "",
+		"platform_id": "more",
+		"platform_name": "更多分享",
+		"share_mode": 1,
+		"toast_msg": "",
+		"command_msg": "",
+		"notice_msg_pre": ""
+	}],
+	"ad_feedback_landingpage_url": "https://www.chengzijianzhan.com/tetris/page/1614296068146180/",
+	"refresh_feed_del_history": true,
+	"test_dict": [],
+	"upload_contacts_policy_text": "同步通讯录，看看有哪些联系人在使用抖音",
+	"with_commerce_entry": false,
+	"enable_large_matting_detect_model": 0,
+	"device_monitor": 1,
+	"share_h5_url_whitelist": ["dymusictape.com", "dymusicvideo.com", "dyshortvideo.com", "dyvideotape.com", "douyinclips.com", "douyinmusicclips.com", "douyinmusicvideo.com", "douyinshortvideo.com", "douyinvideo.net", "iesdouyin.com", "douyinact.net", "douyinact.com", "iesdouyin.net", "douyincdn.com", "douyin.com", "snssdk.com", "amemv.com", "toutiaoshipin.com", "jinritoutiao.bj.cn", "jinritoutiao.com", "jinritoutiao.js.cn", "toutiao.com.hk", "toutiao.com.tw", "toutiao.org", "toutiao11.com", "toutiao12.com", "toutiao13.com", "toutiaocdn.cn", "toutiaocdn.com", "toutiaocdn.net", "toutiaocloud.com", "toutiaoimg.cn", "toutiaoimg.com", "toutiaoimg.net", "toutiaoribao.cn", "toutiao.com", "toutiaopage.com", "snssdk.com", "pstatp.com", "jinritoutiao.fj.cn", "jinritoutiao.sh.cn", "jinritoutiao.tj.cn", "jinritoutiao.xz.cn", "toutiaocloud.cn", "toutiaocloud.net", "toutiao-corp.cn", "toutiao-corp.com", "toutiaoinc.cn", "toutiao-inc.cn", "toutiaoinc.com", "toutiao-inc.com", "toutiaoinc.net", "toutiao-inc.net", "itoutiao.com.cn", "itoutiao.net", "jinritoutiao.gd.cn", "microtoutiao.com", "shangtoutiao.com", "toutiao.tv", "toutiao14.com", "toutiao15.com", "toutiao16.com", "toutiao17.com", "toutiao18.com", "toutiao19.com", "toutiao20.com", "toutiao21.com", "toutiao22.com", "toutiao23.com", "toutiao25.com", "toutiao26.com", "toutiao27.com", "toutiao29.com", "toutiao30.com", "toutiao31.com", "toutiao32.com", "toutiao33.com", "toutiao34.com", "toutiao35.com", "toutiao36.com", "toutiao37.com", "toutiao38.com", "toutiao39.com", "toutiao40.com", "toutiao41.com", "toutiao42.com", "toutiao43.com", "toutiao44.com", "toutiao45.com", "toutiao46.com", "toutiao47.com", "toutiao48.com", "toutiao49.com", "toutiao50.com", "toutiao51.com", "toutiao52.com", "toutiao53.com", "toutiao54.com", "toutiao55.com", "toutiao57.com", "toutiao59.com", "toutiao60.com", "toutiao61.com", "toutiao62.com", "toutiao63.com", "toutiao64.com", "toutiaohao.cn", "toutiaohao.com", "toutiaohao.com.cn", "toutiaohao.net", "toutiaoribao.net", "toutiaoshipin.cn"],
+	"sync_to_toutiao": 0,
+	"upload_origin_audio_track": true,
+	"video_size_category": ["540x960", "720x1280", "720x1280"],
+	"anti_addiction_toast_time": 5400,
+	"enable_react_native_page": false,
+	"fp_upload_device_url": "https://api.tiktokv.com/rc/device_info/v1/collection/",
+	"music_billboard_rule_url": "https://aweme.snssdk.com/falcon/douyin_falcon/rule/music/",
+	"enable_fancy_qrcode": 1,
+	"enable_upload_mobile_pcid": true,
+	"original_musician_entry": true,
+	"show_blank": 1,
+	"enable_local_music_entrance": true,
+	"shield_music_sdk": true,
+	"a22": "iPhone8,1",
+	"enable_background_sticker": 0,
+	"test_lucky_money": 0,
+	"video_bitrate_category": [2.5, 2.5, 3.5],
+	"download_setting_enable": 0,
+	"create_aweme_entry": 0,
+	"enable_omsdk": false,
+	"http_retry_interval": 0,
+	"is_ob": false,
+	"share_url_whitelist": {
+		"long_whitelist": ["iesdouyin.com", "www.douyin.com", "www.amemv.com", "www.iesdouyin.com", "www.douyinshortvideo.com"],
+		"short_whitelist": ["v.douyin.com", "v16.tiktokv.com", "vt.tiktok.com", "v16.musical.ly", "vm.tiktok.com"]
+	},
+	"use_new_audiovideo_sync": 0,
+	"wallet_conf": {
+		"page_charge_schema": "aweme://webview/?url=https%3A%2F%2Fwallet.snssdk.com%2Fdouyin%2Fpay%3Fhide_nav_bar%3D1",
+		"page_index_schema": "aweme://webview/?url=https%3A%2F%2Fwallet.snssdk.com%2Fdouyin%2Fpay%3Fhide_nav_bar%3D1"
+	},
+	"ad_display_time": 3,
+	"follow_feed_as_default": 0,
+	"http_retry_count": 4,
+	"is_use_tongdun_sdk": true,
+	"self_see_not_share": "分享失败，详情请查看系统通知",
+	"share_direct_with_pic": true,
+	"sticker_artist_url": "https://aweme.snssdk.com/magic/runtime/?id=2263",
+	"enable_hard_decode": 1,
+	"guide_word_display_settings": {
+		"most_display_times": 3,
+		"one_display_intervals": 604800,
+		"op_most_display_times": 1,
+		"op_one_display_intervals": 604800
+	},
+	"live_switch_spi": 0,
+	"profile_completion_threshold": 0.7,
+	"video_compose": 30,
+	"device_platform": "iphone",
+	"download_check_status": 1,
+	"download_forbidden_toast": "作品审核中，请稍后再试",
+	"notice_close_time": 2592000000,
+	"old_style_challenge_ids": ["1584287770870814", "1575309109788685", "1576244833286157"],
+	"push_pre_permission_view": {
+		"toast_title": "通知，是件很重要的事情",
+		"toast_text": "打开通知，更快查收你关注的作者发布视频，与其他用户的互动等更多消息。"
+	},
+	"ttregion": false,
+	"default_cover_urls": [{
+		"uri": "c8510002be9a3a61aad2",
+		"url_list": ["http://p9-dy.bytecdn.cn/obj/c8510002be9a3a61aad2", "http://p1-dy.bytecdn.cn/obj/c8510002be9a3a61aad2", "http://pb3.pstatp.com/obj/c8510002be9a3a61aad2"]
+	}, {
+		"uri": "c818001b7d4f790dc0c2",
+		"url_list": ["http://p3-dy.bytecdn.cn/obj/c818001b7d4f790dc0c2", "http://p1-dy.bytecdn.cn/obj/c818001b7d4f790dc0c2", "http://pb3.pstatp.com/obj/c818001b7d4f790dc0c2"]
+	}, {
+		"uri": "c83300148d959f8a60b1",
+		"url_list": ["http://p1-dy.bytecdn.cn/obj/c83300148d959f8a60b1", "http://p9-dy.bytecdn.cn/obj/c83300148d959f8a60b1", "http://pb3.pstatp.com/obj/c83300148d959f8a60b1"]
+	}, {
+		"uri": "c853000ff659f147682f",
+		"url_list": ["http://p1-dy.bytecdn.cn/obj/c853000ff659f147682f", "http://p9-dy.bytecdn.cn/obj/c853000ff659f147682f", "http://pb3.pstatp.com/obj/c853000ff659f147682f"]
+	}, {
+		"uri": "c852001dfafdadb2d3de",
+		"url_list": ["http://p9-dy.bytecdn.cn/obj/c852001dfafdadb2d3de", "http://p1-dy.bytecdn.cn/obj/c852001dfafdadb2d3de", "http://pb3.pstatp.com/obj/c852001dfafdadb2d3de"]
+	}, {
+		"url_list": ["http://p3-dy.bytecdn.cn/obj/c84d0007ec696c1ff6e8", "http://p1-dy.bytecdn.cn/obj/c84d0007ec696c1ff6e8", "http://pb3.pstatp.com/obj/c84d0007ec696c1ff6e8"],
+		"uri": "c84d0007ec696c1ff6e8"
+	}, {
+		"uri": "c84d0007ec6c02d356d6",
+		"url_list": ["http://p1-dy.bytecdn.cn/obj/c84d0007ec6c02d356d6", "http://p9-dy.bytecdn.cn/obj/c84d0007ec6c02d356d6", "http://pb3.pstatp.com/obj/c84d0007ec6c02d356d6"]
+	}, {
+		"uri": "c8580007195863f40ff7",
+		"url_list": ["http://p9-dy.bytecdn.cn/obj/c8580007195863f40ff7", "http://p3-dy.bytecdn.cn/obj/c8580007195863f40ff7", "http://pb3.pstatp.com/obj/c8580007195863f40ff7"]
+	}, {
+		"uri": "c84100187bb3e1e459ca",
+		"url_list": ["http://p9-dy.bytecdn.cn/obj/c84100187bb3e1e459ca", "http://p3-dy.bytecdn.cn/obj/c84100187bb3e1e459ca", "http://pb3.pstatp.com/obj/c84100187bb3e1e459ca"]
+	}],
+	"enable_home_scan_qrcode": true,
+	"open_forward": 1,
+	"popWindowEveryTime_postaweme": false,
+	"use_new_sdk": true,
+	"enable_check_environment_safe_status": false,
+	"awe_security_center_v2": 1,
+	"close_new_account_url": false,
+	"enable_dynamic_cover": 0,
+	"live_min_bitrate": 512000,
+	"profile_completion": {
+		"signature": 0.1,
+		"avatar": 0.3,
+		"birthday": 0.1,
+		"gender": 0.1,
+		"location": 0.1,
+		"nickname": 0.2,
+		"school": 0.1,
+		"short_id": 0
+	},
+	"search_tab": ["general", "video", "user", "music", "challenge", "poi"],
+	"use_shangtang": 1,
+	"ad_coupon_config": {
+		"show": 1
+	},
+	"extra": {
+		"now": 1544074192000
+	},
+	"video_frame_rate": 30,
+	"is_download_micro_app": 1,
+	"js_actlog_url": "//s3.pstatp.com/bytecom/resource/track_log/src/toutiao-track-log.js?ad_id={{ad_id}}",
+	"live_fps": 18,
+	"new_user_tab_switch": true,
+	"record_bitrate_mode": 1,
+	"ttnet_route": false,
+	"enable_slow_optimize": 0,
+	"progressbar_threshold": 30000,
+	"red_packet_retry_interval": 300,
+	"verify_exceed": 5,
+	"video_play_config": 0,
+	"enable_profile_link": false,
+	"complete_profile_policy": {
+		"interval": 2,
+		"times": 3
+	},
+	"hotsoon_download_url": "http://d.huoshanzhibo.com/Pp7r/",
+	"live_res_w": 540,
+	"aweme_fe_conf": {
+		"business_ec": {
+			"page_edit": {
+				"fallback_url": "https://aweme.snssdk.com/falcon/rn/business?initPage=edit&status_bar_color=fff&status_font_dark=1&loading_bgcolor=fff",
+				"schema": "aweme://reactnative?channel_name=rn_patch&module_name=page_business&bundle_name=business&hide_nav_bar=1&initPage=edit"
+			},
+			"page_eshop_toolbox": {
+				"fallback_url": "https://aweme.snssdk.com/falcon/rn/eshop_toolbox?hide_nav_bar=1&status_bar_color=fff&status_font_dark=1&loading_bgcolor=fff",
+				"schema": "aweme://reactnative?channel_name=rn_patch&module_name=page_eshop_toolbox&bundle_name=business&hide_nav_bar=1"
+			},
+			"page_home": {
+				"fallback_url": "https://aweme.snssdk.com/falcon/rn/business?initPage=home&status_bar_color=fff&status_font_dark=1&loading_bgcolor=fff",
+				"schema": "aweme://reactnative?channel_name=rn_patch&module_name=page_business&bundle_name=business&hide_nav_bar=1&initPage=home"
+			}
+		},
+		"link_plan": {
+			"publish": "aweme://webview/?url=https%3A%2F%2Fwww.douyin.com%2Ffalcon%2Frn%2Flink_plan%3Fhide_nav_bar%3D1%26enter_from%3Dpublish&hide_nav_bar=1&enter_from=publish&rn_schema=aweme%3A%2F%2Freactnative%2F%3Fchannel_name%3Drn_patch%26bundle_name%3Dbusiness%26module_name%3Dpage_link_plan%26bg_theme%3D%2523161823%26hide_nav_bar%3D1%26enter_from%3Dpublish",
+			"settings": "aweme://webview/?url=https%3A%2F%2Fwww.douyin.com%2Ffalcon%2Frn%2Flink_plan%3Fhide_nav_bar%3D1%26enter_from%3Dsettings&hide_nav_bar=1&enter_from=settings&rn_schema=aweme%3A%2F%2Freactnative%2F%3Fchannel_name%3Drn_patch%26bundle_name%3Dbusiness%26module_name%3Dpage_link_plan%26bg_theme%3D%2523161823%26hide_nav_bar%3D1%26enter_from%3Dsettings"
+		}
+	},
+	"close_fantasy": 1,
+	"disable_live_cdn_selection": false,
+	"enable_hardware_encode": false,
+	"fresh_animation": false,
+	"video_quality_category": null,
+	"add_device_fingerprint_open": 0,
+	"network_lib_type": 1,
+	"notice_count_latency": 1000,
+	"player_type": 1,
+	"third_login_bind_window": null,
+	"tt_device_info_collect_controller": {
+		"whiteapp": {},
+		"device_info_switch": 1,
+		"riskapp": {},
+		"riskdir": {},
+		"sensitive": {
+			"bssid": 1,
+			"name": 1,
+			"ssid": 1
+		}
+	},
+	"use_new_ffmpeg": false,
+	"feed_tab": 0,
+	"can_react": true,
+	"qrcode_domain_whitelist": ["aweme.snssdk.com", "www.douyin.com", "www.snssdk.com", "www.tiktokv.com", "www.amemv.com", "www.tiktok.com", "www.iesdouyin.com", "www.douyinact.com", "www.douyinact.net", "www.iesdouyin.net", "www.douyincdn.com", "www.douyinvideo.net", "www.douyinshortvideo.com", "www.douyinclips.com", "www.douyinmusicvideo.com", "www.douyinmusicclips.com", "www.dymusictape.com", "www.dyvideotape.com", "www.dyshortvideo.com", "www.dymusicvideo.com", "www.musical.ly", "www.direct.ly", "www.directly.im", "www.honeypomelo.in", "www.livelycdn.com", "www.miumiu.io", "www.miumiu.lol", "www.musapi.cc", "www.muscdn.com", "www.muscdn.net", "www.muscdn.org", "www.muser.me", "www.musicallycdn.com", "www.musinc.io", "www.pingpong.ly", "www.pomelo.im", "www.squadapp.im", "www.zhiliaoapp.com", "www.musemuse.cn", "www.mymuse.com.cn"],
+	"wakeup_weibo_app": true,
+	"aweme_gecko_conf": {
+		"initial_channel": ["rn_base_ios", "rn_patch_ios", "falcon_dyfe", "fe_app_rn_patch_ios"]
+	},
+	"https_list": ["aweme/v1/commit/item/digg/", "aweme/v1/commit/follow/user/"],
+	"sp": {
+		"estr": "a3668f0afac72ca3f6c1697d29e0e1bb1fef4ab0285319b95ac39fa42c38d05f"
+	},
+	"test_region": "CN",
+	"upload_contacts_policy_times": 3,
+	"at_friends_show_type": 1,
+	"im_comment_forward_enabled": true,
+	"private_available": true,
+	"search_carousel_intervals": 5,
+	"upload_contacts_policy_pic": "https://p1.pstatp.com/obj/887a001320efd10f757d",
+	"use_ttplayer": false,
+	"log_pb": {
+		"impr_id": "20181206132952010011040205909378"
+	},
+	"global_tips": {
+		"not_share": "抖音君正在审核你的视频，暂时还不能分享哦",
+		"search_tips": "输入搜索内容",
+		"self_see_not_share": "分享失败，详情请查看系统通知",
+		"share_fail": "啊哦，服务器打瞌睡了，再试一次吧～ ",
+		"at_too_more": "最多@五个好友",
+		"draft_publish": "已保存至个人主页草稿箱，快去发布吧～",
+		"net_weak": "网络不给力",
+		"not_comment": "抖音君正在审核你的视频，暂时还不能评论哦"
+	},
+	"default_avatar_uris": ["p0.pstatp.com/origin/3791/5035712059", "p0.pstatp.com/origin/3795/3033762272", "p0.pstatp.com/origin/3792/5112637127", "p0.pstatp.com/origin/3791/5070639578", "p0.pstatp.com/origin/3797/2889309425", "p0.pstatp.com/origin/3793/3114521287", "p0.pstatp.com/origin/3796/2975850990", "p0.pstatp.com/origin/3795/3044413937", "p0.pstatp.com/origin/3795/3047680722", "p0.pstatp.com/origin/3793/3131589739", "8d66002ca10cc7a57906"],
+	"download_sdk_config": {
+		"download_dialog_config": {
+			"is_enable_back_dialog": 1
+		},
+		"download_lib_switch": 2
+	},
+	"ftc_age_enable": false,
+	"hotsearch_switchs": {
+		"hotsearch_aweme_billboard_switch": true,
+		"hotsearch_billboard_switch": true,
+		"hotsearch_music_billboard_switch": true,
+		"hotsearch_positive_energy_billboard_switch": true,
+		"hotsearch_star_billboard_switch": true
+	},
+	"im_image_switch": 1,
+	"show_block": 1,
+	"sync_to_toutiao_url": "https://i.snssdk.com/user/profile/influence/v1/?app_id=1128#tt_daymode=0",
+	"ad_intro_for_adversitser_flag": 1,
+	"use_new_account_URL": true,
+	"red_packet_retry_max": 3,
+	"shopping": {
+		"add_shop_url": "https://aweme.snssdk.com/falcon/douyin_falcon/business/goods_240/",
+		"edit_shop_url": "https://aweme.snssdk.com/falcon/douyin_falcon/business/goodsEdit_240/",
+		"enable": true,
+		"enable_user": true,
+		"use_taobao": false,
+		"buyer_orders_url": "https://haohuo.snssdk.com/views/order/center?origin_type=1002003000&origin_id=0",
+		"edit_draft_url": "https://aweme.snssdk.com/falcon/douyin_falcon/business/goods_240/",
+		"max_bindings": 3,
+		"seller_orders_url": "https://lianmeng.snssdk.com/home/index"
+	},
+	"upload_contacts_policy_caption": "发现通讯录好友",
+	"upload_contacts_policy_interval": 172800,
+	"wallet_web_view": "sslocal://webview?url=https%3A%2F%2Fwallet.snssdk.com%2Fdouyin%2Fpay&title=%E9%92%B1%E5%8C%85&hide_nav_bar=1&hide_status_bar=1",
+	"long_video_permitted": false
+}
